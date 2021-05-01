@@ -1,2 +1,2 @@
 # CafeApp
-Simple GUI for small restaurants
+Simple inventory administation for small restaurants
