@@ -1,5 +1,5 @@
 # CafeApp
-<h1>Simple inventory administation for small coffe shop.</h1>
+<h1>Simple inventory managment application for small coffe shop.</h1>
 
 This code is a simple program that can keep track of the sales and inventory of a small coffe shop business.
 
